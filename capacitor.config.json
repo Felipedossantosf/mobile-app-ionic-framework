@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.app",
+  "appName": "obligatorio-taller",
+  "webDir": "www",
+  "bundledWebRuntime": true
+}
