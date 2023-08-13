@@ -31,7 +31,7 @@ function inicializar(){
 
 
 
-    
+    mostrarHome();
     activarUsuarioLogeado();
 }
 
